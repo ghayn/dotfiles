@@ -55,6 +55,6 @@ zmodule zsh-users/zsh-autosuggestions
 # }}} End configuration added by Zim install
 
 zmodule romkatv/powerlevel10k
-zmodule asdf
 zmodule exa
 zmodule fzf
+zmodule joke/zim-mise
